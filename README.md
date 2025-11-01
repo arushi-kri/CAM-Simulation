@@ -1,6 +1,6 @@
 ### CAM: Manufacturing Simulation
 
-🔗 [View on Fusion 360](https://a360.co/4oUEqMS)
+🔗 [View on Fusion 360](https://a360.co/4oFwMFe)
 
 ![Preview](preview.png)
 
